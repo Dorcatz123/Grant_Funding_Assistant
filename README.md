@@ -22,7 +22,7 @@ pypi link: [link](https://pypi.org/project/grant-funding-assistant/)
 
 This project is built on the power of multi agent systems. I did a general intro to multi agent systems using crew.ai in my YouTube channel:
 
-[![Watch the video](https://www.youtube.com/watch?v=T9zm4ya8G8A&t=1613s)
+[![Watch the video](https://img.youtube.com/vi/T9zm4ya8G8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=T9zm4ya8G8A&t=1613s)
 
 
 
