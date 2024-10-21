@@ -7,11 +7,7 @@
 
 ## 🚀Overview 
 
-This project is built on the power of multi agent systems. I did a general intro to multi agent systems in crew.ai in my YouTube channel:
-[![Watch the video](https://img.youtube.com/vi/T9zm4ya8G8A&t=1613s/maxresdefault.jpg)](https://www.youtube.com/watch?v=T9zm4ya8G8A&t=1613s)
-
-
-GitHub link: [Link](https://github.com/Dorcatz123/grant_funding_assistant)
+pypi link: [link](https://pypi.org/project/grant-funding-assistant/)
 
 ## 🚀Features 
 - **Easy input**: The program will let researchers easily input their details such as name, google scholar link, websites, funding opportunity etc and will 
@@ -21,6 +17,13 @@ GitHub link: [Link](https://github.com/Dorcatz123/grant_funding_assistant)
 ## 🚀Technologies Used 
 - **Python**: The primary programming language used for developing the assistant.
 - **Crew.ai**: Using crew.ai to build carefully crafted agents to do various taks synchronously to accomplish the goal of writing a research proposal.
+
+## Tutorial on multi agents:
+
+This project is built on the power of multi agent systems. I did a general intro to multi agent systems using crew.ai in my YouTube channel:
+
+[![Watch the video](https://www.youtube.com/watch?v=T9zm4ya8G8A&t=1613s)
+
 
 
 ## 🚀 User installation 
