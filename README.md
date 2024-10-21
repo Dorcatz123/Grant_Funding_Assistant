@@ -7,6 +7,8 @@
 
 ## 🚀Overview 
 
+This is a multiagent system which can help researchers create grant funding proposals based on their research profile and funding guidelines.
+
 pypi link: [link](https://pypi.org/project/grant-funding-assistant/)
 
 ## 🚀Features 
