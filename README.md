@@ -3,7 +3,7 @@
 
 # Grant funding assistant
 
-![Grant funding assistant](https://raw.githubusercontent.com/Dorcatz123/Cancer_Researcher_AI/main/joyful_bots_collaborating.jpg)
+![Grant funding assistant](joyful_bots_collaborating.jpg)
 
 ## Overview
 
