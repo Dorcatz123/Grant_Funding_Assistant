@@ -51,11 +51,8 @@ based on the grant funding criteria.
 - **[10 2024]**: Initial concept and prototype developed.
 
 
-As we bring in more contributors, the project remains rooted in its mission to provide accessible and reliable information backed by links to the source documents.
-
-
 ## Contact
-For any inquiries or feedback, please contact Kiran or Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com)
+For any inquiries or feedback, please contact Akshay: [Akshay P R](mailto:akshaypr314159@gmail.com)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
