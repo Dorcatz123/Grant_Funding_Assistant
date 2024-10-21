@@ -20,7 +20,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'grant_funding_assistant = grant_funding_assistant:main',  # Define the console command and entry point
+            'grant_funding_assistant = grant_funding_assistant.main:main',  # Define the console command and entry point
         ],
     },
 
