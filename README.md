@@ -7,6 +7,9 @@
 
 ## 🚀Overview 
 
+This project is built on the power of multi agent systems. I did a general intro to multi agent systems in crew.ai in my YouTube channel:
+[![Watch the video](https://img.youtube.com/vi/T9zm4ya8G8A&t=1613s/maxresdefault.jpg)](https://www.youtube.com/watch?v=T9zm4ya8G8A&t=1613s)
+
 
 GitHub link: [Link](https://github.com/Dorcatz123/grant_funding_assistant)
 
