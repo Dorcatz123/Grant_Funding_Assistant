@@ -18,7 +18,7 @@ pypi link: [link](https://pypi.org/project/grant-funding-assistant/)
 - **Python**: The primary programming language used for developing the assistant.
 - **Crew.ai**: Using crew.ai to build carefully crafted agents to do various taks synchronously to accomplish the goal of writing a research proposal.
 
-## Tutorial on multi agents:
+## 🚀Tutorial on multi agents:
 
 This project is built on the power of multi agent systems. I did a general intro to multi agent systems using crew.ai in my YouTube channel:
 
