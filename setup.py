@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='grant_funding_assistant',
-    version='0.1.1',
+    version='0.3',
     description='This is a multiagent system which can help researchers create grant funding proposals based on their research profile and funding guidelines',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
